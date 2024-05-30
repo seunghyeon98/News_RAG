@@ -22,6 +22,6 @@
   
 
 
-## Next 고도화 
+## Further 
 - Ensemble Retriever 적용해보기
   
