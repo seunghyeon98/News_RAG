@@ -14,6 +14,7 @@
 
 ## RAG 고도화
 - Multi Query Retriever 활용
+  
   고급 프롬프트 기법인 MQR을 활용하여 query의 품질을 높여 RAG의 정확도를 높힙니다.
 
 
